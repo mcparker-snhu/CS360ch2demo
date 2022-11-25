@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ch2demo</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="biking">Biking</string>
+    <string name="reading">Reading</string>
+    <string name="other">Other</string>
+    <string name="hiMessage">"Hi from Cs 360"</string>
+
+</resources>
